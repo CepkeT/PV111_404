@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../Image/header.jpg");
+}
+table {
+    margin: 200px auto 0;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+span {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+}
